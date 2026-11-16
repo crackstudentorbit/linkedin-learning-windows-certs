@@ -57,11 +57,11 @@ Paid LinkedIn Learning Standard — **free in our launcher**, paid on the offici
 
 ## Screenshots
 
-![LinkedIn Learning](preview.png)
+<p align="center"><img src="preview.png" alt="LinkedIn Learning" width="420"></p>
 
 Aivora launcher hub — **Education** → **LinkedIn Learning**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
